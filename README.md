@@ -1,4 +1,4 @@
-# La-Fontaine's-Fable
+# La Fontaine's Fable
 
 Hello !
 Ceci est mon premier projet réalisé en HTML/CSS. Je l'ai réalisé lorsque j'étais au lycée, avec la spécialité NSI.
