@@ -1,10 +1,13 @@
 # La Fontaine's Fable
 
-Hello !
+Hello ! 👋
 
-Ceci est mon premier projet réalisé en HTML/CSS. Je l'ai réalisé lorsque j'étais au lycée, avec la spécialité NSI.
-J'ai beaucoup aimé ce projet et ait même fait une div, afin de rediriger ma page principale à une seconde page.
+Voici mon tout premier projet en HTML/CSS, réalisé au lycée dans le cadre de la spécialité NSI. J’ai pris beaucoup de plaisir à le concevoir et ai même ajouté une fonctionnalité permettant de rediriger la page principale vers une seconde page avec une div.
 
-Ce projet consiste à afficher la fable du Corbeau et du Renard, avec un formulaire de satisfaction, avec des boutons, auquel l'utilisateur peut intéragir et une div qui redirige vers une page qui remercie l'utilisateur pour avoir laissé son avis.
+📜 Description du projet
 
-Merci de votre attention, en espérant que vous aimerez ce projet.
+Ce projet affiche la fable Le Corbeau et le Renard avec :
+-  Un formulaire de satisfaction interactif, comprenant des boutons avec lesquels l'utilisateur peut interagir.
+-  Une redirection vers une page de remerciement après avoir laissé un avis.
+
+Merci pour votre attention, en espérant que ce projet vous plaira ! 😊
